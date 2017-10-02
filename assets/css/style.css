@@ -1,0 +1,33 @@
+.ContentParagraph {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    line-height: 2;
+    font-size: 20px;
+}
+
+footer {
+    color: #ffffff;
+    background-color: #666666;
+    text-align: center;
+    position: flex;
+    width: 100%;
+    margin: 0 auto;
+    padding: 30px 30px 30px 30px;
+    bottom: 0;
+    height:60px;
+    position: flex;
+}
+
+body {
+	padding-bottom: 70px;
+	color: #777777;
+}
+
+.navbar-brand{
+	background: #4aaaa5;
+
+
+}
+
+h1 h2 h3{
+	color: #777777;
+}
